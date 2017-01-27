@@ -1,0 +1,10 @@
+Pide dos numeros mayores a 0.
+
+En un ciclo que se detiene cuando el segundo numero es 0.
+
+Cuando el segundo numero sea impar acumula el valor de n en x
+Multiplica n por 2
+Divide m entre 2 truncando el valor
+
+
+El resultado final es la multiplicacion de los numero ingresados.
